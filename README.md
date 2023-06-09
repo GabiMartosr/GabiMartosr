@@ -10,11 +10,11 @@
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiMartosr&show_icons-true&theme-merko)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiMartosr&show_icons=true&theme=dark)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/apt/pin/?username-GabiMartosrrepo-GabiMartosr&theme-merko)](htpps://github.com/anuragahazra/githb-readme-stars)
+[![Readme Card](https://github-readme-stats.vercel.app/apt/pin/?username-GabiMartosrrepo-GabiMartosr&theme=dark)](htpps://github.com/anuragahazra/githb-readme-stars)
 
 
 
