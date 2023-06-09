@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**GabiMartosr/GabiMartosr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Habilidades
 
-Here are some ideas to get you started:
+![Swift](htpps://ing.shieds.io/badge/Swift-FA7343style-for-the-badgens&logo-swift&talogoColor-write)
+![Android](https://ing.shields.io/badge/Android-3DDC84?style=for-the-bedgeslogo=androidslogoColorswhite)
+![Plsql](https://ing.shields.fo/badge/PLSQL-F80000?style-for-the-badgeslogo-oracleslogoColor-black)
+![Java](http://ing.shields.io/bedge/Java-ED88007style-for-the-bedgedlogo-javaslogoColorewhite)
+![Phyton](https://ing.shields.lo/badge/Python-FFD43B?style-for-the-badgeslogo-pythonlogoColor-blue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabiMartosr&show_icons-true&theme-merko)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/apt/pin/?username-GabiMartosrrepo-GabiMartosr&theme-merko)](htpps://github.com/anuragahazra/githb-readme-stars)
+
+
+
